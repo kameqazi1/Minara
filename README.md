@@ -1,4 +1,4 @@
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ # 
+# بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ 
 # Minara App
 ___
 Minara is a Business to Consumer product, in which the goal of the product is to ensure that Muslim money stays in Muslim community. Our goal is to eventually create a financial hub in which Muslim users can find services that fit their needs, without having to resort to searching through a slog of third party apps.
@@ -11,6 +11,7 @@ Our initial goals / minimum viable product is:
 - Consumers should be able to click through posts and leave a rating as well as a review.
 
 Extra goals (?)
+
 Consumers should be able to:
 - favorite restaurants
 - be able to access the website of the service provider
